@@ -36,3 +36,6 @@ PRELIM OUTPUTS ADDED:
 PT1: Universal Remote Control — Smart Remote.
 Prelim Project: Contactless Card and Payment App.
 PT2: Innovative Timepiece — Fusion Band.
+
+ASSIGNMENTS PAGE UPDATED:
+The submitted Prelim, Midterm, and Final PDF outputs are now also listed on the separate Assignments page, grouped by term, with links to each PDF.
