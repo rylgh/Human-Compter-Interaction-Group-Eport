@@ -21,3 +21,18 @@ BEFORE SUBMISSION
 - Confirm whether Irene's Human Communication reflection belongs in this portfolio.
 - Add subject name and instructor if required.
 - Publish all files and folders to the root of the GitHub repository. Do not upload only index.html; the HTML pages, style.css, and images folder are all required.
+
+GROUP NAME: TechTalk
+
+ADDED FINAL TERM ACTIVITY:
+Activity 5: Establishing Requirements — TechTix: Interactive Event Booking Product. PDF is stored in files/Activity5_EstablishingRequirements.pdf and linked from activities.html.
+
+MIDTERM ACTIVITIES ADDED:
+Activity 3: Emotional Interaction — AI Emotion Mirror.
+Activity 4: Interfaces — Plants vs. Zombies.
+Midterm Project: Data Gathering — Improving JRU SWIT.
+
+PRELIM OUTPUTS ADDED:
+PT1: Universal Remote Control — Smart Remote.
+Prelim Project: Contactless Card and Payment App.
+PT2: Innovative Timepiece — Fusion Band.
