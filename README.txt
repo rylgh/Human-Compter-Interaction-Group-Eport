@@ -39,3 +39,8 @@ PT2: Innovative Timepiece — Fusion Band.
 
 ASSIGNMENTS PAGE UPDATED:
 The submitted Prelim, Midterm, and Final PDF outputs are now also listed on the separate Assignments page, grouped by term, with links to each PDF.
+
+PERFORMANCE TASK CLASSIFICATION CONFIRMED BY USER:
+- Prelim: Contactless Card and Payment App.
+- Midterm: Data Gathering Project — Improving JRU SWIT.
+These are listed on the Performance Tasks page, not the Assignments page.
